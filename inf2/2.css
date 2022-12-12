@@ -1,0 +1,60 @@
+.container {
+	background: gainsboro;
+	height: 980px;
+}
+.text {
+	font-size: 25px;
+}
+.block {
+	display: flex;
+	justify-content: center;
+}
+.one {
+	height: 650px;
+	width: 480px;
+	background-color: white;
+}
+.two {
+	height: 650px;
+	width: 480px;
+	background-color: darkgray;
+}
+.three {
+	height: 650px;
+	width: 480px;
+	background-color: white;
+}
+.foto1 {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	border: solid red;
+}
+.foto2 {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	border: solid red;
+}
+.foto3 {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	border: solid red;
+}
+.text1 {
+	font-size: 25px;
+}
+.g {
+	height: 70px;
+	width: 70px;
+	margin-top: 15px;
+}
+.f {
+	height: 100px;
+	width: 100px;
+}
+.logo {
+	display: flex;
+	justify-content: center;
+}
